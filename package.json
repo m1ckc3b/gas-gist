@@ -1,0 +1,23 @@
+{
+  "name": "gas-gist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1ckc3b/gas-gist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m1ckc3b/gas-gist/issues"
+  },
+  "homepage": "https://github.com/m1ckc3b/gas-gist#readme",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.55"
+  }
+}
